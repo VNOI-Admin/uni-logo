@@ -300,7 +300,7 @@
 		"logoURL": "https://raw.githubusercontent.com/winprn/uni-info/master/74.png"
 	},
 	{
-		"uniName": "Ho Chi Minh City University of Transport",
+		"uniName": "University of Transport in Ho Chi Minh City",
 		"logoURL": "https://raw.githubusercontent.com/winprn/uni-info/master/75.png"
 	},
 	{
@@ -366,5 +366,25 @@
 	{
 		"uniName": "Da Nang University of Education",
 		"logoURL": "https://raw.githubusercontent.com/winprn/uni-info/master/91.png"
+	},
+	{
+		"uniName": "Academy of Finance",
+		"logoURL": "https://raw.githubusercontent.com/winprn/uni-info/master/92.png"
+	},
+	{
+		"uniName": "People's Security Academy",
+		"logoURL": "https://raw.githubusercontent.com/winprn/uni-info/master/93.png"
+	},
+	{
+		"uniName": "Nha Trang University",
+		"logoURL": "https://raw.githubusercontent.com/winprn/uni-info/master/94.png"
+	},
+	{
+		"uniName": "National University of Singapore",
+		"logoURL": "https://raw.githubusercontent.com/winprn/uni-info/master/95.png"
+	},
+	{
+		"uniName": "Saigon University",
+		"logoURL": "https://raw.githubusercontent.com/winprn/uni-info/master/96.png"
 	}
 ]

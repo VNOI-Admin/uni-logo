@@ -1,0 +1,9 @@
+name: Check Duplicate
+on: [pull_request]
+jobs:
+  check-duplicate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Check Duplicate
+        run: python3 scripts/check_duplicate.py

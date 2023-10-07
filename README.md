@@ -15,8 +15,8 @@ See demo [here](https://icpcvn.github.io/2022/regional/scoreboard.html).
   - Add/replace your university to the [list of universities](data.json) in the following format:
     ```json
     {
-      "name": "University Name",
-      "logo": "<id>.png"
+      "uniName": "University Name",
+      "logoURL": "<id>.png"
     }
     ```
     where `<id>.png` is the name of your university logo file.
@@ -26,5 +26,5 @@ See demo [here](https://icpcvn.github.io/2022/regional/scoreboard.html).
 ## Preferred logo format
 
 - The logo should be square.
-- The logo should be at least 50x50 pixels, at most 1000x1000 pixels. The preferred size is 200x200 pixels.
+- The logo should be at least 50x50 pixels, at most 1000x1000 pixels. The preferred size is 100x100 pixels.
 - The logo should have transparent background and in PNG format.

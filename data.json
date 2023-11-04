@@ -28,7 +28,7 @@
 		"logoURL": "6.png"
 	},
 	{
-		"uniName": "HSGS High School for the Gifted, VNU-HCM",
+		"uniName": "HSGS Vietnam National University Ho Chi Minh",
 		"logoURL": "7.png"
 	},
 	{
@@ -268,7 +268,7 @@
 		"logoURL": "66.png"
 	},
 	{
-		"uniName": "Ho Chi Minh City Open University",
+		"uniName": "HCM City Open University",
 		"logoURL": "67.png"
 	},
 	{
@@ -364,7 +364,7 @@
 		"logoURL": "90.png"
 	},
 	{
-		"uniName": "Da Nang University of Education",
+		"uniName": "Danang University of Education",
 		"logoURL": "91.png"
 	},
 	{
@@ -402,5 +402,57 @@
 	{
 		"uniName": "Nguyen Huu Huan High School",
 		"logoURL": "100.png"
+	},
+	{
+		"uniName": "University of Management and Technology, Ho Chi Minh City",
+		"logoURL": "101.png"
+	},
+	{
+		"uniName": "TienGiang University",
+		"logoURL": "102.png"
+	},
+	{
+		"uniName": "Swinburne University of Technology",
+		"logoURL": "103.png"
+	},
+	{
+		"uniName": "Danang University of Economics",
+		"logoURL": "104.png"
+	},
+	{
+		"uniName": "Van Hien University",
+		"logoURL": "105.png"
+	},
+	{
+		"uniName": "Dong Thap University",
+		"logoURL": "106.png"
+	},
+	{
+		"uniName": "Quynhon University",
+		"logoURL": "107.png"
+	},
+	{
+		"uniName": "Banking Academy of Vietnam",
+		"logoURL": "108.png"
+	},
+	{
+		"uniName": "Vinh Long University of Technology Education",
+		"logoURL": "109.png"
+	},
+	{
+		"uniName": "Le Quy Don Technical University",
+		"logoURL": "110.png"
+	},
+	{
+		"uniName": "Danang Architecture University",
+		"logoURL": "111.png"
+	},
+	{
+		"uniName": "Van Lang University",
+		"logoURL": "112.png"
+	},
+	{
+		"uniName": "Vinh University",
+		"logoURL": "113.png"
 	}
 ]

@@ -380,10 +380,6 @@
 		"logoURL": "94.png"
 	},
 	{
-		"uniName": "National University of Singapore",
-		"logoURL": "95.png"
-	},
-	{
 		"uniName": "Saigon University",
 		"logoURL": "96.png"
 	},
@@ -458,5 +454,45 @@
 	{
 		"uniName": "HSGS Hanoi National University of Education",
 		"logoURL": "114.png"
+	},
+	{
+		"uniName": "Ateneo de Manila University",
+		"logoURL": "foreign_1.png"
+	},
+	{
+		"uniName": "Nanyang Technological University",
+		"logoURL": "foreign_2.png"
+	},
+	{
+		"uniName": "Bina Nusantara University",
+		"logoURL": "foreign_3.png"
+	},
+	{
+		"uniName": "Chulalongkorn University",
+		"logoURL": "foreign_4.svg"
+	},
+	{
+		"uniName": "Chiang Mai University",
+		"logoURL": "foreign_5.png"
+	},
+	{
+		"uniName": "National Taiwan University",
+		"logoURL": "foreign_6.png"
+	},
+	{
+		"uniName": "Universitas Indonesia",
+		"logoURL": "foreign_7.png"
+	},
+	{
+		"uniName": "Seoul National University",
+		"logoURL": "foreign_8.png"
+	},
+	{
+		"uniName": "University of the Thai Chamber of Commerce",
+		"logoURL": "foreign_9.png"
+	},
+	{
+		"uniName": "National University of Singapore",
+		"logoURL": "foreign_10.png"
 	}
 ]

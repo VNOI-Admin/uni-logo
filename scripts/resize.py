@@ -10,9 +10,9 @@ if not os.path.exists(target_directory_path):
 target_width, target_height = 100, 100
 
 for filename in os.listdir(directory_path):
+    image_path = os.path.join(directory_path, filename)
+    target_image_path = os.path.join(target_directory_path, filename)
     if filename.endswith(".png"):
-        image_path = os.path.join(directory_path, filename)
-        target_image_path = os.path.join(target_directory_path, filename)
         with Image.open(image_path) as img:
             width, height = img.size
 
@@ -26,3 +26,7 @@ for filename in os.listdir(directory_path):
             else:
                 # Copy the image to the target directory
                 os.system(f"cp {image_path} {target_image_path}")
+    # for svg files
+    else:
+        # Copy the image to the target directory
+        os.system(f"cp {image_path} {target_image_path}")

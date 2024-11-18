@@ -390,5 +390,9 @@
     {
         "uniName": "HSGS Le Hong Phong - Ho Chi Minh City",
         "logoURL": "lhp-hcm.png"
+    },
+    {
+        "uniName": "HSGS Thoai Ngoc Hau - An Giang",
+        "logoURL": "CTNH.png"
     }
 ]

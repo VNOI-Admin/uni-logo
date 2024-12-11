@@ -398,5 +398,9 @@
     {
         "uniName": "HSGS Thoai Ngoc Hau - An Giang",
         "logoURL": "CTNH.png"
+    },
+    {
+        "uniName": "HSGS Lam Son - Thanh Hoa",
+        "logoURL": "logo_hsgslamson.png"
     }
 ]

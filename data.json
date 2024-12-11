@@ -104,7 +104,7 @@
 		"logoURL": "42.png"
 	},
 	{
-		"uniName": "People’s Police Academy",
+		"uniName": "People's Police Academy",
 		"logoURL": "43.png"
 	},
 	{
@@ -380,6 +380,10 @@
 		"logoURL": "foreign_14.png"
 	},
 	{
+		"uniName": "Hanyang University",
+		"logoURL": "foreign_15.png"
+	},
+	{
 		"uniName": "HSGS Le Quy Don - Da Nang",
 		"logoURL": "LQDDN.png"
 	},
@@ -430,5 +434,13 @@
 	{
 		"uniName": "Ho Chi Minh City Open University",
 		"logoURL": "OU.png"
+	},
+	{
+		"uniName": "University of Transport and Communications, Campus in Ho Chi Minh City",
+		"logoURL": "81.png"
+	},
+	{
+		"uniName": "University of Technology and Education-The University of Danag",
+		"logoURL": "ute-udn.png"
 	}
 ]

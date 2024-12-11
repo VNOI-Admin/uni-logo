@@ -1,406 +1,434 @@
 [
-    {
-        "uniName": "University of Science, VNU-HCM",
-        "logoURL": "0.png"
-    },
-    {
-        "uniName": "University of Engineering and Technology - VNU",
-        "logoURL": "1.png"
-    },
-    {
-        "uniName": "HSGS Vietnam National University Hanoi",
-        "logoURL": "2.png"
-    },
-    {
-        "uniName": "Hanoi University of Science and Technology",
-        "logoURL": "3.png"
-    },
-    {
-        "uniName": "HSGS Hung Vuong - Phu Tho",
-        "logoURL": "4.png"
-    },
-    {
-        "uniName": "FPT University",
-        "logoURL": "5.png"
-    },
-    {
-        "uniName": "Ho Chi Minh City University of Technology",
-        "logoURL": "6.png"
-    },
-    {
-        "uniName": "HSGS Vietnam National University Ho Chi Minh",
-        "logoURL": "7.png"
-    },
-    {
-        "uniName": "Ho Chi Minh City University of Education",
-        "logoURL": "8.png"
-    },
-    {
-        "uniName": "HCMC University of Technology and Education",
-        "logoURL": "9.png"
-    },
-    {
-        "uniName": "Hanoi National University of Education",
-        "logoURL": "10.png"
-    },
-    {
-        "uniName": "University of Information Technology - Vietnam National University HCM",
-        "logoURL": "13.png"
-    },
-    {
-        "uniName": "HSGS Tran Phu - Hai Phong",
-        "logoURL": "14.png"
-    },
-    {
-        "uniName": "HSGS Le Quy Don - Quang Tri",
-        "logoURL": "LQDQT.png"
-    },
-    {
-        "uniName": "Hanoi University of Science",
-        "logoURL": "18.png"
-    },
-    {
-        "uniName": "Phenikaa University",
-        "logoURL": "19.png"
-    },
-    {
-        "uniName": "University of Science and Technology – The University of Danang",
-        "logoURL": "24.png"
-    },
-    {
-        "uniName": "The University of Danang, Vietnam-Korea University of ICT",
-        "logoURL": "26.png"
-    },
-    {
-        "uniName": "Fulbright University Vietnam",
-        "logoURL": "27.png"
-    },
-    {
-        "uniName": "National Economics University",
-        "logoURL": "28.png"
-    },
-    {
-        "uniName": "HSGS Nguyen Hue - Hanoi",
-        "logoURL": "33.png"
-    },
-    {
-        "uniName": "VinUniversity",
-        "logoURL": "34.png"
-    },
-    {
-        "uniName": "Posts and Telecommunications Institute of Technology, HN",
-        "logoURL": "35.png"
-    },
-    {
-        "uniName": "Can Tho University",
-        "logoURL": "40.png"
-    },
-    {
-        "uniName": "Military Technical Academy",
-        "logoURL": "41.png"
-    },
-    {
-        "uniName": "HSGS Tran Dai Nghia - Ho Chi Minh City",
-        "logoURL": "42.png"
-    },
-    {
-        "uniName": "People’s Police Academy",
-        "logoURL": "43.png"
-    },
-    {
-        "uniName": "Ho Chi Minh City International University",
-        "logoURL": "44.png"
-    },
-    {
-        "uniName": "University of Social Sciences and Humanities, VNUHCM",
-        "logoURL": "51.png"
-    },
-    {
-        "uniName": "Hanoi University of Industry",
-        "logoURL": "haui.png"
-    },
-    {
-        "uniName": "Hue University of Science",
-        "logoURL": "55.png"
-    },
-    {
-        "uniName": "Foreign Trade University",
-        "logoURL": "56.png"
-    },
-    {
-        "uniName": "Industrial University of Ho Chi Minh City",
-        "logoURL": "57.png"
-    },
-    {
-        "uniName": "Posts and Telecommunications Institute of Technology, HCMC",
-        "logoURL": "58.png"
-    },
-    {
-        "uniName": "RMIT University Vietnam",
-        "logoURL": "59.png"
-    },
-    {
-        "uniName": "Thu Dau Mot University",
-        "logoURL": "61.png"
-    },
-    {
-        "uniName": "Thang Long University",
-        "logoURL": "63.png"
-    },
-    {
-        "uniName": "Naval Academy",
-        "logoURL": "65.png"
-    },
-    {
-        "uniName": "HCM City Open University",
-        "logoURL": "67.png"
-    },
-    {
-        "uniName": "Thuyloi University",
-        "logoURL": "68.png"
-    },
-    {
-        "uniName": "Hanoi Open University",
-        "logoURL": "70.png"
-    },
-    {
-        "uniName": "Ton Duc Thang University",
-        "logoURL": "71.png"
-    },
-    {
-        "uniName": "Electric Power University",
-        "logoURL": "72.png"
-    },
-    {
-        "uniName": "Ho Chi Minh City University of Foreign Languages - Information Technology",
-        "logoURL": "73.png"
-    },
-    {
-        "uniName": "Eastern International University",
-        "logoURL": "74.png"
-    },
-    {
-        "uniName": "University of Transport in Ho Chi Minh City",
-        "logoURL": "75.png"
-    },
-    {
-        "uniName": "Hongduc University",
-        "logoURL": "76.png"
-    },
-    {
-        "uniName": "The Saigon International University",
-        "logoURL": "78.png"
-    },
-    {
-        "uniName": "Vietnam Maritime University",
-        "logoURL": "79.png"
-    },
-    {
-        "uniName": "University of Transport and Communications",
-        "logoURL": "81.png"
-    },
-    {
-        "uniName": "Tra Vinh University",
-        "logoURL": "82.png"
-    },
-    {
-        "uniName": "Ho Chi Minh City University of Technology, HUTECH",
-        "logoURL": "83.png"
-    },
-    {
-        "uniName": "TeleCommunications University",
-        "logoURL": "84.png"
-    },
-    {
-        "uniName": "HongBang International University",
-        "logoURL": "85.png"
-    },
-    {
-        "uniName": "Duy Tan University",
-        "logoURL": "87.png"
-    },
-    {
-        "uniName": "Ho Chi Minh City University of Food Industry",
-        "logoURL": "88.png"
-    },
-    {
-        "uniName": "College of Information and Communication Technology - Thai Nguyen University",
-        "logoURL": "89.png"
-    },
-    {
-        "uniName": "University of Fire Fighting and Prevention",
-        "logoURL": "90.png"
-    },
-    {
-        "uniName": "Danang University of Education",
-        "logoURL": "91.png"
-    },
-    {
-        "uniName": "Academy of Finance",
-        "logoURL": "92.png"
-    },
-    {
-        "uniName": "People's Security Academy",
-        "logoURL": "93.png"
-    },
-    {
-        "uniName": "Nha Trang University",
-        "logoURL": "94.png"
-    },
-    {
-        "uniName": "Saigon University",
-        "logoURL": "96.png"
-    },
-    {
-        "uniName": "HSGS Hanoi Amsterdam",
-        "logoURL": "97.png"
-    },
-    {
-        "uniName": "University of Science and Technology of Hanoi",
-        "logoURL": "98.png"
-    },
-    {
-        "uniName": "An Lao High School",
-        "logoURL": "99.png"
-    },
-    {
-        "uniName": "Nguyen Huu Huan High School",
-        "logoURL": "100.png"
-    },
-    {
-        "uniName": "University of Management and Technology, Ho Chi Minh City",
-        "logoURL": "101.png"
-    },
-    {
-        "uniName": "TienGiang University",
-        "logoURL": "102.png"
-    },
-    {
-        "uniName": "Swinburne University of Technology",
-        "logoURL": "103.png"
-    },
-    {
-        "uniName": "Danang University of Economics",
-        "logoURL": "104.png"
-    },
-    {
-        "uniName": "Van Hien University",
-        "logoURL": "105.png"
-    },
-    {
-        "uniName": "Dong Thap University",
-        "logoURL": "106.png"
-    },
-    {
-        "uniName": "Quynhon University",
-        "logoURL": "107.png"
-    },
-    {
-        "uniName": "Banking Academy of Vietnam",
-        "logoURL": "108.png"
-    },
-    {
-        "uniName": "Vinh Long University of Technology Education",
-        "logoURL": "109.png"
-    },
-    {
-        "uniName": "Le Quy Don Technical University",
-        "logoURL": "110.png"
-    },
-    {
-        "uniName": "Danang Architecture University",
-        "logoURL": "111.png"
-    },
-    {
-        "uniName": "Van Lang University",
-        "logoURL": "112.png"
-    },
-    {
-        "uniName": "Vinh University",
-        "logoURL": "113.png"
-    },
-    {
-        "uniName": "HSGS Hanoi National University of Education",
-        "logoURL": "114.png"
-    },
-    {
-        "uniName": "Ateneo de Manila University",
-        "logoURL": "foreign_1.png"
-    },
-    {
-        "uniName": "Nanyang Technological University",
-        "logoURL": "foreign_2.png"
-    },
-    {
-        "uniName": "Bina Nusantara University",
-        "logoURL": "foreign_3.png"
-    },
-    {
-        "uniName": "Chulalongkorn University",
-        "logoURL": "foreign_4.svg"
-    },
-    {
-        "uniName": "Chiang Mai University",
-        "logoURL": "foreign_5.png"
-    },
-    {
-        "uniName": "National Taiwan University",
-        "logoURL": "foreign_6.png"
-    },
-    {
-        "uniName": "Universitas Indonesia",
-        "logoURL": "foreign_7.png"
-    },
-    {
-        "uniName": "Seoul National University",
-        "logoURL": "foreign_8.png"
-    },
-    {
-        "uniName": "University of the Thai Chamber of Commerce",
-        "logoURL": "foreign_9.png"
-    },
-    {
-        "uniName": "National University of Singapore",
-        "logoURL": "foreign_10.png"
-    },
-    {
-        "uniName": "HSGS Le Quy Don - Da Nang",
-        "logoURL": "LQDDN.png"
-    },
-    {
-        "uniName": "HSGS Luong Van Tuy - Ninh Binh",
-        "logoURL": "115.png"
-    },
-    {
-        "uniName": "HSGS Bien Hoa - Ha Nam",
-        "logoURL": "cbh.png"
-    },
-    {
-        "uniName": "HSGS Vo Nguyen Giap - Quang Binh",
-        "logoURL": "VNGQB.png"
-    },
-    {
-        "uniName": "Ly Tu Trong High School for the Gifted - Can Tho",
-        "logoURL": "CLTT.png"
-    },
-    {
-        "uniName": "Da Nang University of Economics",
-        "logoURL": "Logo_DUE.png"
-    },
-    {
-        "uniName": "HSGS Le Hong Phong - Ho Chi Minh City",
-        "logoURL": "lhp-hcm.png"
-    },
-    {
-        "uniName": "HSGS Lao Cai",
-        "logoURL": "clc.png"
-    },
-    {
-        "uniName": "HSGS Thoai Ngoc Hau - An Giang",
-        "logoURL": "CTNH.png"
-    },
-    {
-        "uniName": "HSGS Lam Son - Thanh Hoa",
-        "logoURL": "logo_hsgslamson.png"
-    }
+	{
+		"uniName": "University of Science, VNU-HCM",
+		"logoURL": "0.png"
+	},
+	{
+		"uniName": "University of Engineering and Technology - VNU",
+		"logoURL": "1.png"
+	},
+	{
+		"uniName": "HSGS Vietnam National University Hanoi",
+		"logoURL": "2.png"
+	},
+	{
+		"uniName": "Hanoi University of Science and Technology",
+		"logoURL": "3.png"
+	},
+	{
+		"uniName": "HSGS Hung Vuong - Phu Tho",
+		"logoURL": "4.png"
+	},
+	{
+		"uniName": "FPT University",
+		"logoURL": "5.png"
+	},
+	{
+		"uniName": "Ho Chi Minh City University of Technology",
+		"logoURL": "6.png"
+	},
+	{
+		"uniName": "HSGS Vietnam National University Ho Chi Minh",
+		"logoURL": "7.png"
+	},
+	{
+		"uniName": "Ho Chi Minh City University of Education",
+		"logoURL": "8.png"
+	},
+	{
+		"uniName": "HCMC University of Technology and Education",
+		"logoURL": "9.png"
+	},
+	{
+		"uniName": "Hanoi National University of Education",
+		"logoURL": "10.png"
+	},
+	{
+		"uniName": "University of Information Technology - Vietnam National University HCM",
+		"logoURL": "13.png"
+	},
+	{
+		"uniName": "HSGS Tran Phu - Hai Phong",
+		"logoURL": "14.png"
+	},
+	{
+		"uniName": "HSGS Le Quy Don - Quang Tri",
+		"logoURL": "LQDQT.png"
+	},
+	{
+		"uniName": "Hanoi University of Science",
+		"logoURL": "18.png"
+	},
+	{
+		"uniName": "Phenikaa University",
+		"logoURL": "19.png"
+	},
+	{
+		"uniName": "University of Science and Technology – The University of Danang",
+		"logoURL": "24.png"
+	},
+	{
+		"uniName": "The University of Danang, Vietnam-Korea University of ICT",
+		"logoURL": "26.png"
+	},
+	{
+		"uniName": "Fulbright University Vietnam",
+		"logoURL": "27.png"
+	},
+	{
+		"uniName": "National Economics University",
+		"logoURL": "28.png"
+	},
+	{
+		"uniName": "HSGS Nguyen Hue - Hanoi",
+		"logoURL": "33.png"
+	},
+	{
+		"uniName": "VinUniversity",
+		"logoURL": "34.png"
+	},
+	{
+		"uniName": "Posts and Telecommunications Institute of Technology, HN",
+		"logoURL": "35.png"
+	},
+	{
+		"uniName": "Can Tho University",
+		"logoURL": "40.png"
+	},
+	{
+		"uniName": "Military Technical Academy",
+		"logoURL": "41.png"
+	},
+	{
+		"uniName": "HSGS Tran Dai Nghia - Ho Chi Minh City",
+		"logoURL": "42.png"
+	},
+	{
+		"uniName": "People’s Police Academy",
+		"logoURL": "43.png"
+	},
+	{
+		"uniName": "Ho Chi Minh City International University",
+		"logoURL": "44.png"
+	},
+	{
+		"uniName": "University of Social Sciences and Humanities, VNUHCM",
+		"logoURL": "51.png"
+	},
+	{
+		"uniName": "Hanoi University of Industry",
+		"logoURL": "haui.png"
+	},
+	{
+		"uniName": "Hue University of Science",
+		"logoURL": "55.png"
+	},
+	{
+		"uniName": "Foreign Trade University",
+		"logoURL": "56.png"
+	},
+	{
+		"uniName": "Industrial University of Ho Chi Minh City",
+		"logoURL": "57.png"
+	},
+	{
+		"uniName": "Posts and Telecommunications Institute of Technology, HCMC",
+		"logoURL": "58.png"
+	},
+	{
+		"uniName": "RMIT University Vietnam",
+		"logoURL": "59.png"
+	},
+	{
+		"uniName": "Thu Dau Mot University",
+		"logoURL": "61.png"
+	},
+	{
+		"uniName": "Thang Long University",
+		"logoURL": "63.png"
+	},
+	{
+		"uniName": "Naval Academy",
+		"logoURL": "65.png"
+	},
+	{
+		"uniName": "HCM City Open University",
+		"logoURL": "67.png"
+	},
+	{
+		"uniName": "Thuyloi University",
+		"logoURL": "68.png"
+	},
+	{
+		"uniName": "Hanoi Open University",
+		"logoURL": "70.png"
+	},
+	{
+		"uniName": "Ton Duc Thang University",
+		"logoURL": "71.png"
+	},
+	{
+		"uniName": "Electric Power University",
+		"logoURL": "72.png"
+	},
+	{
+		"uniName": "Ho Chi Minh City University of Foreign Languages - Information Technology",
+		"logoURL": "73.png"
+	},
+	{
+		"uniName": "Eastern International University",
+		"logoURL": "74.png"
+	},
+	{
+		"uniName": "University of Transport in Ho Chi Minh City",
+		"logoURL": "75.png"
+	},
+	{
+		"uniName": "Hongduc University",
+		"logoURL": "76.png"
+	},
+	{
+		"uniName": "The Saigon International University",
+		"logoURL": "78.png"
+	},
+	{
+		"uniName": "Vietnam Maritime University",
+		"logoURL": "79.png"
+	},
+	{
+		"uniName": "University of Transport and Communications",
+		"logoURL": "81.png"
+	},
+	{
+		"uniName": "Tra Vinh University",
+		"logoURL": "82.png"
+	},
+	{
+		"uniName": "Ho Chi Minh City University of Technology, HUTECH",
+		"logoURL": "83.png"
+	},
+	{
+		"uniName": "TeleCommunications University",
+		"logoURL": "84.png"
+	},
+	{
+		"uniName": "HongBang International University",
+		"logoURL": "85.png"
+	},
+	{
+		"uniName": "Duy Tan University",
+		"logoURL": "87.png"
+	},
+	{
+		"uniName": "Ho Chi Minh City University of Food Industry",
+		"logoURL": "88.png"
+	},
+	{
+		"uniName": "College of Information and Communication Technology - Thai Nguyen University",
+		"logoURL": "89.png"
+	},
+	{
+		"uniName": "University of Fire Fighting and Prevention",
+		"logoURL": "90.png"
+	},
+	{
+		"uniName": "Danang University of Education",
+		"logoURL": "91.png"
+	},
+	{
+		"uniName": "Academy of Finance",
+		"logoURL": "92.png"
+	},
+	{
+		"uniName": "People's Security Academy",
+		"logoURL": "93.png"
+	},
+	{
+		"uniName": "Nha Trang University",
+		"logoURL": "94.png"
+	},
+	{
+		"uniName": "Saigon University",
+		"logoURL": "96.png"
+	},
+	{
+		"uniName": "HSGS Hanoi Amsterdam",
+		"logoURL": "97.png"
+	},
+	{
+		"uniName": "University of Science and Technology of Hanoi",
+		"logoURL": "98.png"
+	},
+	{
+		"uniName": "An Lao High School",
+		"logoURL": "99.png"
+	},
+	{
+		"uniName": "Nguyen Huu Huan High School",
+		"logoURL": "100.png"
+	},
+	{
+		"uniName": "University of Management and Technology, Ho Chi Minh City",
+		"logoURL": "101.png"
+	},
+	{
+		"uniName": "TienGiang University",
+		"logoURL": "102.png"
+	},
+	{
+		"uniName": "Swinburne University of Technology",
+		"logoURL": "103.png"
+	},
+	{
+		"uniName": "Danang University of Economics",
+		"logoURL": "104.png"
+	},
+	{
+		"uniName": "Van Hien University",
+		"logoURL": "105.png"
+	},
+	{
+		"uniName": "Dong Thap University",
+		"logoURL": "106.png"
+	},
+	{
+		"uniName": "Quynhon University",
+		"logoURL": "107.png"
+	},
+	{
+		"uniName": "Banking Academy of Vietnam",
+		"logoURL": "108.png"
+	},
+	{
+		"uniName": "Vinh Long University of Technology Education",
+		"logoURL": "109.png"
+	},
+	{
+		"uniName": "Le Quy Don Technical University",
+		"logoURL": "110.png"
+	},
+	{
+		"uniName": "Danang Architecture University",
+		"logoURL": "111.png"
+	},
+	{
+		"uniName": "Van Lang University",
+		"logoURL": "112.png"
+	},
+	{
+		"uniName": "Vinh University",
+		"logoURL": "113.png"
+	},
+	{
+		"uniName": "HSGS Hanoi National University of Education",
+		"logoURL": "114.png"
+	},
+	{
+		"uniName": "Ateneo de Manila University",
+		"logoURL": "foreign_1.png"
+	},
+	{
+		"uniName": "Nanyang Technological University",
+		"logoURL": "foreign_2.png"
+	},
+	{
+		"uniName": "Bina Nusantara University",
+		"logoURL": "foreign_3.png"
+	},
+	{
+		"uniName": "Chulalongkorn University",
+		"logoURL": "foreign_4.svg"
+	},
+	{
+		"uniName": "Chiang Mai University",
+		"logoURL": "foreign_5.png"
+	},
+	{
+		"uniName": "National Taiwan University",
+		"logoURL": "foreign_6.png"
+	},
+	{
+		"uniName": "Universitas Indonesia",
+		"logoURL": "foreign_7.png"
+	},
+	{
+		"uniName": "Seoul National University",
+		"logoURL": "foreign_8.png"
+	},
+	{
+		"uniName": "University of the Thai Chamber of Commerce",
+		"logoURL": "foreign_9.png"
+	},
+	{
+		"uniName": "National University of Singapore",
+		"logoURL": "foreign_10.png"
+	},
+	{
+		"uniName": "Pohang University of Science and Technology",
+		"logoURL": "foreign_11.png"
+	},
+	{
+		"uniName": "National Cheng Kung University",
+		"logoURL": "foreign_12.png"
+	},
+	{
+		"uniName": "Parahyangan University",
+		"logoURL": "foreign_13.png"
+	},
+	{
+		"uniName": "Singapore Management University",
+		"logoURL": "foreign_14.png"
+	},
+	{
+		"uniName": "HSGS Le Quy Don - Da Nang",
+		"logoURL": "LQDDN.png"
+	},
+	{
+		"uniName": "HSGS Luong Van Tuy - Ninh Binh",
+		"logoURL": "115.png"
+	},
+	{
+		"uniName": "HSGS Bien Hoa - Ha Nam",
+		"logoURL": "cbh.png"
+	},
+	{
+		"uniName": "HSGS Vo Nguyen Giap - Quang Binh",
+		"logoURL": "VNGQB.png"
+	},
+	{
+		"uniName": "Ly Tu Trong High School for the Gifted - Can Tho",
+		"logoURL": "CLTT.png"
+	},
+	{
+		"uniName": "Da Nang University of Economics",
+		"logoURL": "Logo_DUE.png"
+	},
+	{
+		"uniName": "HSGS Le Hong Phong - Ho Chi Minh City",
+		"logoURL": "lhp-hcm.png"
+	},
+	{
+		"uniName": "HSGS Lao Cai",
+		"logoURL": "clc.png"
+	},
+	{
+		"uniName": "HSGS Thoai Ngoc Hau - An Giang",
+		"logoURL": "CTNH.png"
+	},
+	{
+		"uniName": "HSGS Lam Son - Thanh Hoa",
+		"logoURL": "logo_hsgslamson.png"
+	},
+	{
+		"uniName": "Hanoi Architectural University",
+		"logoURL": "HAU.png"
+	},
+	{
+		"uniName": "Hanoi University of Civil Engineering",
+		"logoURL": "HUCE.png"
+	},
+	{
+		"uniName": "Ho Chi Minh City Open University",
+		"logoURL": "OU.png"
+	}
 ]

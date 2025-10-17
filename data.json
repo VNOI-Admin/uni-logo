@@ -64,7 +64,7 @@
 		"logoURL": "19.png"
 	},
 	{
-		"uniName": "University of Science and Technology – The University of Danang",
+		"uniName": "University of Science and Technology - The University of Danang",
 		"logoURL": "24.png"
 	},
 	{
@@ -389,6 +389,10 @@
 	},
 	{
 		"uniName": "HSGS Le Quy Don - Da Nang",
+		"logoURL": "LQDDN.png"
+	},
+	{
+		"uniName": "HSGS Le Quy Don - Danang",
 		"logoURL": "LQDDN.png"
 	},
 	{

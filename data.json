@@ -470,5 +470,9 @@
   {
 		"uniName": "HSGS Hung Yen",
 		"logoURL": "120.jpg"
-	}
+  },
+  {
+		"uniName": "HS Gia Dinh - Ho Chi Minh City",
+		"logoURL": "gd.png"
+  }
 ]

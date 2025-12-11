@@ -450,7 +450,7 @@
 	{
 		"uniName": "University of Technology and Education-The University of Danag",
 		"logoURL": "ute-udn.png"
-	}, 
+	},
 	{
 		"uniName": "Cam Lo High School",
 		"logoURL": "172.jpg"
@@ -458,29 +458,29 @@
 	{
 		"uniName": "Vo Van Kiet High School",
 		"logoURL": "VVK.png"
-  },
-  {
-	  	"uniName": "HSGS Nguyen Tat Thanh - Kon Tum",
-	  	"logoURL": "CKT.png"
-  },
-  {
+	},
+	{
+			"uniName": "HSGS Nguyen Tat Thanh - Kon Tum",
+			"logoURL": "CKT.png"
+	},
+	{
 		"uniName": "Bac Lieu High School",
 		"logoURL": "BLHS.png"
-  },
-  {
+	},
+	{
 		"uniName": "HSGS Hung Yen",
 		"logoURL": "120.jpg"
-  },
-  {
+	},
+	{
 		"uniName": "HS Gia Dinh - Ho Chi Minh City",
 		"logoURL": "gd.png"
-  },
-  {
+	},
+	{
 		"uniName": "CMC University",
 		"logoURL": "cmc.png"
-  },
-  {
+	},
+	{
 		"uniName": "HSGS Thang Long, Da Lat - Lam Dong",
 		"logoURL": "ctldl.png"
-  }
+	}
 ]

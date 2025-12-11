@@ -482,5 +482,29 @@
 	{
 		"uniName": "HSGS Thang Long, Da Lat - Lam Dong",
 		"logoURL": "ctldl.png"
+	},
+	{
+		"uniName": "KAIST",
+		"logoURL": "KAIST.png"
+	},
+	{
+		"uniName": "SungKyunKwan University",
+		"logoURL": "SKKU.png"
+	},
+	{
+		"uniName": "Xiamen University Malaysia",
+		"logoURL": "XMUM.png"
+	},
+	{
+		"uniName": "National Taiwan Ocean University",
+		"logoURL": "NTOU.png"
+	},
+	{
+		"uniName": "HCM University of Agriculture and Forestry",
+		"logoURL": "HCMUAF.png"
+	},
+	{
+		"uniName": "Faculty of Information Technology - Hanoi Open University",
+		"logoURL": "70.png"
 	}
 ]

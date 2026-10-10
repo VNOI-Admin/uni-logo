@@ -514,5 +514,9 @@
   {
 		"uniName": "HSGS Thai Nguyen",
 		"logoURL": "Logo-CTN.png"
-	}
+	},
+  {
+    "uniName": "HSGS Bac Ninh",
+    "logoURL": "HSGSBN.png"
+  }
 ]

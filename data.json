@@ -450,7 +450,7 @@
 	{
 		"uniName": "University of Technology and Education-The University of Danag",
 		"logoURL": "ute-udn.png"
-	}, 
+	},
 	{
 		"uniName": "Cam Lo High School",
 		"logoURL": "172.jpg"
@@ -458,33 +458,58 @@
 	{
 		"uniName": "Vo Van Kiet High School",
 		"logoURL": "VVK.png"
-  },
-  {
-	  	"uniName": "HSGS Nguyen Tat Thanh - Kon Tum",
-	  	"logoURL": "CKT.png"
-  },
-  {
+	},
+	{
+			"uniName": "HSGS Nguyen Tat Thanh - Kon Tum",
+			"logoURL": "CKT.png"
+	},
+	{
 		"uniName": "Bac Lieu High School",
 		"logoURL": "BLHS.png"
-  },
-  {
+	},
+	{
 		"uniName": "HSGS Hung Yen",
 		"logoURL": "120.jpg"
-  },
-  {
+	},
+	{
 		"uniName": "HS Gia Dinh - Ho Chi Minh City",
 		"logoURL": "gd.png"
-  },
-  {
+	},
+	{
 		"uniName": "CMC University",
 		"logoURL": "cmc.png"
-  },
-  {
+	},
+	{
 		"uniName": "HSGS Thang Long, Da Lat - Lam Dong",
 		"logoURL": "ctldl.png"
   },
-    {
+  {
 		"uniName": "HSGS Quoc Hoc - Hue",
 		"logoURL": "QHH.png"
   }
+	},
+	{
+		"uniName": "KAIST",
+		"logoURL": "KAIST.png"
+	},
+	{
+		"uniName": "SungKyunKwan University",
+		"logoURL": "SKKU.png"
+	},
+	{
+		"uniName": "Xiamen University Malaysia",
+		"logoURL": "XMUM.png"
+	},
+	{
+		"uniName": "National Taiwan Ocean University",
+		"logoURL": "NTOU.png"
+	},
+	{
+		"uniName": "HCM University of Agriculture and Forestry",
+		"logoURL": "HCMUAF.png"
+	},
+	{
+		"uniName": "Faculty of Information Technology - Hanoi Open University",
+		"logoURL": "70.png"
+	}
 ]

@@ -520,11 +520,19 @@
     "logoURL": "70.png"
   },
   {
-		"uniName": "HSGS Thai Nguyen",
-		"logoURL": "Logo-CTN.png"
+    "uniName": "HSGS Thai Nguyen",
+    "logoURL": "Logo-CTN.png"
   },
   {
     "uniName": "HSGS Bac Ninh",
     "logoURL": "hsgsbacninh.png"
+  },
+  {
+    "uniName": "Fire and Rescue Academy",
+    "logoURL": "pccc.png"
+  },
+  {
+    "uniName": "University of Economics Ho Chi Minh City",
+    "logoURL": "ueh.png"
   }
 ]

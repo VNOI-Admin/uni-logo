@@ -9,7 +9,7 @@
   },
   {
     "uniName": "HSGS Vietnam National University Hanoi",
-    "logoURL": "2.png"
+    "logoURL": "hsgs-khtn.png"
   },
   {
     "uniName": "Hanoi University of Science and Technology",
@@ -173,7 +173,7 @@
   },
   {
     "uniName": "Hanoi Open University",
-    "logoURL": "70.png"
+    "logoURL": "hou.png"
   },
   {
     "uniName": "Ton Duc Thang University",
@@ -189,11 +189,11 @@
   },
   {
     "uniName": "Eastern International University",
-    "logoURL": "74.png"
+    "logoURL": "eiu.png"
   },
   {
     "uniName": "University of Transport in Ho Chi Minh City",
-    "logoURL": "75.png"
+    "logoURL": "uth.png"
   },
   {
     "uniName": "Hongduc University",
@@ -233,7 +233,7 @@
   },
   {
     "uniName": "Ho Chi Minh City University of Food Industry",
-    "logoURL": "88.png"
+    "logoURL": "huit.png"
   },
   {
     "uniName": "College of Information and Communication Technology - Thai Nguyen University",
@@ -449,7 +449,7 @@
   },
   {
     "uniName": "Ho Chi Minh City Open University",
-    "logoURL": "OU.png"
+    "logoURL": "hcmou.png"
   },
   {
     "uniName": "University of Transport and Communications, Campus in Ho Chi Minh City",
@@ -477,7 +477,7 @@
   },
   {
     "uniName": "HSGS Hung Yen",
-    "logoURL": "120.jpg"
+    "logoURL": "hsgs-hungyen.png"
   },
   {
     "uniName": "HS Gia Dinh - Ho Chi Minh City",
@@ -521,7 +521,7 @@
   },
   {
     "uniName": "Faculty of Information Technology - Hanoi Open University",
-    "logoURL": "70.png"
+    "logoURL": "hou.png"
   },
   {
     "uniName": "HSGS Thai Nguyen",
@@ -569,6 +569,14 @@
   },
   {
     "uniName": "Ho Chi Minh City University of Industry and Trade",
-    "logoURL": "88.png"
+    "logoURL": "huit.png"
+  },
+  {
+    "uniName": "Hanoi Metropolitan University",
+    "logoURL": "hnmu.png"
+  },
+  {
+    "uniName": "HSGS Vinh University",
+    "logoURL": "hsgs-vinh.png"
   }
 ]

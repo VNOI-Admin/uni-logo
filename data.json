@@ -484,6 +484,10 @@
     "logoURL": "gd.png"
   },
   {
+     "uniName": "HSGS Ha Long - Quang Ninh",
+     "logoURL": "chl.png"
+  },
+  {
     "uniName": "CMC University",
     "logoURL": "cmc.png"
   },
@@ -534,6 +538,10 @@
   {
     "uniName": "University of Economics Ho Chi Minh City",
     "logoURL": "ueh.png"
+  },
+  {
+    "uniName": "Newton Secondary and High School - Hanoi",
+    "logoURL": "newton.png"
   },
   {
     "uniName": "Phan Boi Chau HSGS - Nghe An",

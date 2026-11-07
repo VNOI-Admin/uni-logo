@@ -546,5 +546,29 @@
   {
     "uniName": "Phan Boi Chau HSGS - Nghe An",
     "logoURL": "PBC_logo.png"
+  },
+  {
+    "uniName": "The University of Danang - University of Technology and Education",
+    "logoURL": "ute-udn.png"
+  },
+  {
+    "uniName": "HSGS Bien Hoa - Ninh Binh",
+    "logoURL": "cbh.png"
+  },
+  {
+    "uniName": "HSGS Thang Long - Lam Dong",
+    "logoURL": "ctldl.png"
+  },
+  {
+    "uniName": "HSGS Phan Boi Chau - Nghe An",
+    "logoURL": "PBC_logo.png"
+  },
+  {
+    "uniName": "HCMC University of Technology and Engineering",
+    "logoURL": "9.png"
+  },
+  {
+    "uniName": "Ho Chi Minh City University of Industry and Trade",
+    "logoURL": "88.png"
   }
 ]
